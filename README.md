@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+### I'm PaperTrain05
+### Minecraft server enginner and 
+### Plugin Developer
+### I study at ITIS (ISS.Meucci 🇮🇹)
+### My passions:
+### Bypass Minecraft AntiCheats
+### Ride a bicycle
+### Plugin Developing
+### Gym
+### etc
+### Here you Will find some Java Plugin for Mc
 <!--
 **PaperTrain05/PaperTrain05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
