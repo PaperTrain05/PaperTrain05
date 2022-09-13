@@ -5,7 +5,7 @@
 ### ☕|| Plugin Developer
 ### 📚|| I study at ITIS (ISS.Meucci 🇮🇹)
 - 🔭 I’m currently working on SlayerMc Minecraft server
-- 🌱 I’m currently learning CSS, HTML and PYTHON
+- 🌱 I’m currently learning CSS, HTML, PYTHON and C++ (focusing in it for school)
 ## Some Programs i Use:
 Visual Studio Code, Intelli J, Java
 ### Here you Will find some Java Plugin for Mc
