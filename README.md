@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm PaperTrain05
 ### 👦|| I'm 15 y.o
-### 👨‍💻|| Minecraft server enginner and 
+### 👨‍💻|| Minecraft server enginner 
 ### ☕|| Plugin Developer
 ### 📚|| I study at ITIS (ISS.Meucci 🇮🇹)
 - 🔭 I’m currently working on SlayerMc Minecraft server
